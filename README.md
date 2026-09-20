@@ -1,3 +1,5 @@
+dont mind the fucking claude, it legit only wrote instructions and fixed ONE BUG
+
 # Roblox Limited Deal Tracker
 
 Discord bot that watches Rolimons' live sale feed and pings you when a
