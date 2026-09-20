@@ -1,0 +1,6 @@
+{
+    "poll_interval_seconds": 5.0,
+    "item_cache_refresh_seconds": 3600.0,
+    "default_min_percent": 5.0,
+    "desktop_notifications_enabled": true
+}
