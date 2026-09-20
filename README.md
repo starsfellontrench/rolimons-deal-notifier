@@ -2,6 +2,10 @@ dont mind the fucking claude, it legit only wrote instructions and fixed ONE BUG
 
 # Roblox Limited Deal Tracker
 
+![Python](https://img.shields.io/badge/python-3.12%2B-blue)
+![discord.py](https://img.shields.io/badge/discord.py-2.3%2B-5865F2)
+![Platform](https://img.shields.io/badge/platform-windows-0078D6)
+
 Discord bot that watches Rolimons' live sale feed and pings you when a
 limited item you're tracking sells below its value/RAP. Runs locally on
 your own PC; also fires a Windows toast for every match while it's running.
@@ -32,6 +36,7 @@ your own PC; also fires a Windows toast for every match while it's running.
   `min_percent` below its value (default 5%). Item names autocomplete.
 - `/unwatch <item>` — stop tracking it.
 - `/list` — show your current watchlist.
+- `/testdeal <item> [percent_off]` — simulate a deal to test notifications.
 
 ## Notes
 
